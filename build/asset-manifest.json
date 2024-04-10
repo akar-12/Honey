@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83e9d7c5.css",
+    "main.js": "/static/js/main.021dd840.js",
+    "static/js/787.38f16daf.chunk.js": "/static/js/787.38f16daf.chunk.js",
+    "static/media/backwater.jpg": "/static/media/backwater.1558e09f7f7004c60c05.jpg",
+    "static/media/resort1.jpg": "/static/media/resort1.7262719fdd5ee600fae5.jpg",
+    "static/media/nature1.jpg": "/static/media/nature1.8d5f9815abfeb4fe89fa.jpg",
+    "static/media/a2.jpeg.jpg": "/static/media/a2.jpeg.249f5c6cf8da4abe791c.jpg",
+    "static/media/beach.jpg": "/static/media/beach.e5ec25d0cf5f53e1713c.jpg",
+    "static/media/a5.jpg": "/static/media/a5.0de1f461a5883ed8328a.jpg",
+    "static/media/d3.jpg": "/static/media/d3.50e1556231d1f41776dd.jpg",
+    "static/media/a3.jpg": "/static/media/a3.2dd30c218e77c6201f63.jpg",
+    "static/media/a1.jpg": "/static/media/a1.4d1cb40df3684246f90f.jpg",
+    "static/media/d1.jpg": "/static/media/d1.b8279186e024df622126.jpg",
+    "static/media/first.jpg": "/static/media/first.62019ebf19c28ef1b30f.jpg",
+    "static/media/fifth.jpg": "/static/media/fifth.bc12120665d70356e8bd.jpg",
+    "static/media/Second.jpg": "/static/media/Second.5a7ea1f0d32e5c05c627.jpg",
+    "static/media/fourth.jpg": "/static/media/fourth.e492eb72048548afa8c1.jpg",
+    "static/media/Hill.jpg": "/static/media/Hill.db2f3356a94f84886cff.jpg",
+    "index.html": "/index.html",
+    "main.83e9d7c5.css.map": "/static/css/main.83e9d7c5.css.map",
+    "main.021dd840.js.map": "/static/js/main.021dd840.js.map",
+    "787.38f16daf.chunk.js.map": "/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e9d7c5.css",
+    "static/js/main.021dd840.js"
+  ]
+}
